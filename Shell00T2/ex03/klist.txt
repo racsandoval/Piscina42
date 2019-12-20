@@ -1,0 +1,1 @@
+Credentials cache: API:1424543 Principal: rsandova@42SP.ORG.BR Issued Expires Principal Nov 18 15:52:44 2019 Nov 19 01:52:48 2019 krbtgt/42SP.ORG.BR@42SP.ORG.BR Nov 18 15:52:45 2019 Nov 19 01:52:48 2019 HTTP/student-storage.42sp.org.br@42SP.ORG.BR
